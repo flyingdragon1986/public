@@ -1,0 +1,11 @@
+*.db
+*.pdb
+*.db
+*.ilk
+*.tlog
+*.obj
+*.suo
+*.sdf
+*.log
+/spacefighter/fighter/Debug
+/spacefighter/fighter/Release
